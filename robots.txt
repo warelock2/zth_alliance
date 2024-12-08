@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://warelock2.github.io/zth_alliance/sitemap.xml
