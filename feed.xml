@@ -3,7 +3,7 @@
     <title>ZTH Alliance</title>
     <link href="https://zthalliance.com/feed.xml" rel="self" />
     <link href="https://zthalliance.com" />
-    <updated>2024-12-11T13:46:53-08:00</updated>
+    <updated>2024-12-11T13:48:38-08:00</updated>
     <author>
         <name>warelock</name>
     </author>
@@ -16,6 +16,8 @@
         </author>
         <link href="https://zthalliance.com/welcome-to-the-zth-alliance/"/>
         <id>https://zthalliance.com/welcome-to-the-zth-alliance/</id>
+            <category term="Welcome"/>
+            <category term="Introduction"/>
 
         <updated>2024-12-07T14:40:49-08:00</updated>
             <summary>
