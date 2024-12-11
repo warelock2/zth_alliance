@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://warelock2.github.io/zth_alliance/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://zthalliance.com/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://warelock2.github.io/zth_alliance/</loc>
+<loc>https://zthalliance.com/</loc>
 </url>
 <url>
-<loc>https://warelock2.github.io/zth_alliance/merchant-directory/</loc>
+<loc>https://zthalliance.com/merchant-directory/</loc>
 <lastmod>2024-12-07T17:39:12-08:00</lastmod>
 </url>
 <url>
-<loc>https://warelock2.github.io/zth_alliance/welcome-to-the-zth-alliance/</loc>
+<loc>https://zthalliance.com/welcome-to-the-zth-alliance/</loc>
 <lastmod>2024-12-11T12:50:04-08:00</lastmod>
 <image:image>
-<image:loc>https://warelock2.github.io/zth_alliance/media/posts/1/zth_alliance_original_artwork_warelock.jpg</image:loc>
+<image:loc>https://zthalliance.com/media/posts/1/zth_alliance_original_artwork_warelock.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
