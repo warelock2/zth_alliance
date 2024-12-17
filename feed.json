@@ -11,20 +11,6 @@
     },
     "items": [
         {
-            "id": "https://zthalliance.com/next-post/",
-            "url": "https://zthalliance.com/next-post/",
-            "title": "Next post",
-            "summary": "Here is the next post",
-            "content_html": "<p>Here is the next post</p>",
-            "author": {
-                "name": "warelock"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-12-16T22:49:36-08:00",
-            "date_modified": "2024-12-16T22:49:36-08:00"
-        },
-        {
             "id": "https://zthalliance.com/welcome-to-the-zth-alliance/",
             "url": "https://zthalliance.com/welcome-to-the-zth-alliance/",
             "title": "Welcome to the ZTH Alliance",
