@@ -3,12 +3,32 @@
     <title>ZTH Alliance</title>
     <link href="https://zthalliance.com/feed.xml" rel="self" />
     <link href="https://zthalliance.com" />
-    <updated>2024-12-16T21:11:30-08:00</updated>
+    <updated>2024-12-16T22:49:36-08:00</updated>
     <author>
         <name>warelock</name>
     </author>
     <id>https://zthalliance.com</id>
 
+    <entry>
+        <title>Next post</title>
+        <author>
+            <name>warelock</name>
+        </author>
+        <link href="https://zthalliance.com/next-post/"/>
+        <id>https://zthalliance.com/next-post/</id>
+
+        <updated>2024-12-16T22:49:36-08:00</updated>
+            <summary>
+                <![CDATA[
+                    Here is the next post
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Here is the next post</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Welcome to the ZTH Alliance</title>
         <author>
@@ -63,7 +83,7 @@
 <p>One of the main, initial goals of the ZTH Alliance is to provide a <a href="https://zthalliance.com/merchant-directory/" target="_blank" rel="noopener noreferrer">merchant directory</a> website, indexed by ZIP code/Post code. This allows vendors including, but not limited to coin shops, gas stations, and coffee shops to register their company name, brick-and-mortar location, listing the goods/services they provide. Customers can then simply go the website, search for their local ZIP code/Post code, and find <em>local</em> merchants where they can bring in physical gold, physical silver, and/or <a href="https://piratechain.com" target="_blank" rel="noopener noreferrer">Pirate Chain</a> privacy cryptocurrency, in order to purchase goods and services from said merchant.</p>
 <p>Once registered, you can obtain a merchant payment sticker for your brick-and-mortar store window, similar to the "Visa" and "Mastercard" stickers already there. The sticker will be similar, if not the same, as the "Liberty accepted here" "ZTH" logo for this website. Additional merchandise (ie. mugs, t-shirts, signage) may become available in the future.</p>
 <p>Here is the current "mock-up" example of the logo to be used:</p>
-<figure class="post__image post__image--center"><img  src="https://zthalliance.com/media/posts/1/zth_alliance_original_artwork_warelock.jpg" alt="" width="300" height="294" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://zthalliance.com/media/posts/1/responsive/zth_alliance_original_artwork_warelock-xs.jpg 640w ,https://zthalliance.com/media/posts/1/responsive/zth_alliance_original_artwork_warelock-sm.jpg 768w ,https://zthalliance.com/media/posts/1/responsive/zth_alliance_original_artwork_warelock-md.jpg 1024w ,https://zthalliance.com/media/posts/1/responsive/zth_alliance_original_artwork_warelock-lg.jpg 1366w ,https://zthalliance.com/media/posts/1/responsive/zth_alliance_original_artwork_warelock-xl.jpg 1600w ,https://zthalliance.com/media/posts/1/responsive/zth_alliance_original_artwork_warelock-2xl.jpg 1920w"></figure>
+<figure class="post__image post__image--center"><img  src="https://zthalliance.com/media/posts/1/zth_alliance_original_artwork_inverted_warelock-2.jpg" alt="" width="300" height="294" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://zthalliance.com/media/posts/1/responsive/zth_alliance_original_artwork_inverted_warelock-2-xs.jpg 640w ,https://zthalliance.com/media/posts/1/responsive/zth_alliance_original_artwork_inverted_warelock-2-sm.jpg 768w ,https://zthalliance.com/media/posts/1/responsive/zth_alliance_original_artwork_inverted_warelock-2-md.jpg 1024w ,https://zthalliance.com/media/posts/1/responsive/zth_alliance_original_artwork_inverted_warelock-2-lg.jpg 1366w ,https://zthalliance.com/media/posts/1/responsive/zth_alliance_original_artwork_inverted_warelock-2-xl.jpg 1600w ,https://zthalliance.com/media/posts/1/responsive/zth_alliance_original_artwork_inverted_warelock-2-2xl.jpg 1920w"></figure>
 <h1 id="mcetoc_1iehver9n3jn">Bank-Free and Government-Free Prices</h1>
 <p>When you go to the store, you've always seen prices listed in your country's "fiat" currency, such as the US Dollar. ZTH Alliance members strongly desire to see and provide prices that have nothing to do with Banks and Governments. While no customer or merchant would or be expected to "quit their day job" over this, abandoning "fiat" currencies altogether, the idea here is to pursue this in a sort of "side gig" sense. You want to keep your pile of honest money separate from your other money.</p>
 <p>As a merchant, we advise picking goods and/or services, where you pledge, going forward, to NEVER price them traditionally in a "fiat" currency, such as the US Dollar, keeping them in a sort of separate "clean spot pile".</p>
