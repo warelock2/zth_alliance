@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Regional Code Form</title>
+    <title>Postal Code Form</title>
     <style>
         .form-container {
             max-width: 400px;
@@ -39,16 +39,19 @@
     </style>
 </head>
 <body>
+    <p>Please enter in a postal code that represents your neighborhood. Examples:</p>
+    <ul>
+        <li>US 5-digit ZIP code (ie. "90210")</li>
+        <li>UK Postcode (ie. "SW1A 1AA")</li>
+        <li>India PIN Code (ie. "110001")</li>
+    </ul>
     <div class="form-container">
         <form action="https://ai7el8w142.execute-api.us-west-2.amazonaws.com/storefront-regional-voting-flyer" method="get">
             <div class="form-group">
-                <label for="regional_code">Regional Code:</label>
+                <label for="postal_code">Regional Code:</label>
                 <input type="text" 
-                       id="regional_code" 
-                       name="regional_code" 
-                       pattern="[0-9]{5}"
-                       title="Please enter a 5-digit code"
-                       required>
+                       id="postal_code" 
+                       name="postal_code">
             </div>
             <button type="submit">Submit</button>
         </form>
