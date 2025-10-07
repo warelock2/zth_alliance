@@ -3,7 +3,7 @@
     <title>ZTH Alliance</title>
     <link href="https://zthalliance.com/feed.xml" rel="self" />
     <link href="https://zthalliance.com" />
-    <updated>2025-10-07T12:32:41-07:00</updated>
+    <updated>2025-10-07T12:43:18-07:00</updated>
     <author>
         <name>warelock</name>
     </author>
@@ -20,7 +20,7 @@
         <updated>2025-09-09T23:16:59-07:00</updated>
             <summary>
                 <![CDATA[
-                    The Downfall of the Term "Crypto" kryptós → hidden, secret gráphein → to write cryptography → "hidden writing" The term "crypto" has been largely and widely tainted by a lack of privacy and anonymity. "Crypto" denotes "Cryptography", which hides secrets behind hard math problems as&hellip;
+                    The Downfall of the Term "Crypto" kryptós (Greek) → hidden, secret gráphein (Greek) → to write cryptography → "hidden writing" The term "crypto" has been largely and widely tainted by a lack of privacy and anonymity. "Crypto" denotes "Cryptography", which hides secrets behind hard math&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -37,8 +37,8 @@
 </div>
 <h1 id="mcetoc_1j4p3rg1751">The Downfall of the Term "Crypto"</h1>
 <ul>
-<li data-start="374" data-end="404">kryptós → hidden, secret</li>
-<li data-start="374" data-end="404">gráphein → to write</li>
+<li data-start="374" data-end="404">kryptós (Greek) → hidden, secret</li>
+<li data-start="374" data-end="404">gráphein (Greek) → to write</li>
 <li>cryptography → "hidden writing"</li>
 </ul>
 <p>The term "crypto" has been largely and widely tainted by a lack of privacy and anonymity. "Crypto" denotes "Cryptography", which hides secrets behind hard math problems as a financial instrument. However in a "public key cryptography" sense, "crypto" only seems to borrow from the "digital signatures" transparent aspect, rather than the "encryption" privacy aspect. This runs counter to the original ethos of Bitcoin, which was to create a cash replacement. Without real privacy and anonymity, "crypto" can only be used as an investment and not as a cash replacement. Unfortunately, this made the world of "crypto" vulnerable to the "get rich quick" vultures of traditional finance, resulting in stupid tropes like "number go up", "wen crypto Lambo, bruh?", "Mooning", and "HODL". Pro tip: If you're dreaming of exiting a crypto investment to get your "fat stacks" of fiat currency, you never cared about the crypto to begin with.</p>
